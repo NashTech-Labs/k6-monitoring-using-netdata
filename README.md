@@ -54,4 +54,4 @@ Open your web browser again and navigate to your Netdata instance’s URL (e.g.,
 
 
 For a better understanding and changing this project according to you please refer to this blog based on same:-
-https://blog.nashtechglobal.com/wp-admin/post.php?post=5073&action=edit
+https://blog.nashtechglobal.com/k6-for-monitoring-using-netdata/
